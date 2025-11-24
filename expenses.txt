@@ -1,0 +1,8 @@
+# Expense Tracker Data File 
+# date | category | amount 
+
+2 jan 2025 | phone | 30000
+3 may 2025 | mumma's birthday | 4000
+6 may 2025 | my birthday | 3000
+18 october 2025 | shoes | 700
+12 dec 2025 | brother's birthday | 4000
